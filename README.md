@@ -1,4 +1,4 @@
-# smartes_people
+# smartest_people
 
 smartest people in history
 
